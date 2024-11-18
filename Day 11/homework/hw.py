@@ -1,0 +1,1 @@
+#no homework. jgufuri proeqti iyo
