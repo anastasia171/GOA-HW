@@ -3,7 +3,7 @@
 i = 10
 while i < 50:
     if i % 2 == 0:
-        print(i + "luwia")
+        print(str(i) + " luwia")
     else:
-        print(i + "kentia")   
+        print(str(i) + " kentia")   
     i = i+1  
